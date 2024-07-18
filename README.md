@@ -1,7 +1,7 @@
 
 # ARQUITETURA DE COMPUTADORES
-Universidade Federal Rural do Semi Árido - [UFERSA]<https://ufersa.edu.br/>
-Centro de Ciências Exatas e Naturais - CCEN
+Universidade Federal Rural do Semi Árido - [UFERSA](https://ufersa.edu.br/)
+Centro de Ciências Exatas e Naturais - [CCEN](https://ccen.ufersa.edu.br/)
 Departamento de Computação - DC
 Disciplina EXA0100 - ARQUITETURA E ORGANIZ.DE COMPUTADORES
 
