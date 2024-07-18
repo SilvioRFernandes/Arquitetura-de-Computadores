@@ -13,7 +13,9 @@ O aluno deverá ser capaz de compreender quais são e como funcionam os diversos
 
 ## MATERIAL DE APOIO
 [Slides das aulas](<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Slides%20Aulas>)
+
 [Exercícios](<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Exercicios>)
+
 [Códigos de Exemplos](<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Exemplos%20ASM>)
 
 ## BIBLIOGRAFIA
