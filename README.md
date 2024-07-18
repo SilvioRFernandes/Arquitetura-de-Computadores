@@ -12,7 +12,7 @@ O aluno deverá ser capaz de compreender quais são e como funcionam os diversos
 [MARS 4.5 - MIPS Assembler and Runtime Simulator](<https://courses.missouristate.edu/kenvollmar/mars/>)
 
 ## MATERIAL DE APOIO
-[Slides das aulas] (/Slides%20Aulas)
+[Slides das aulas] (</Slides%20Aulas>)
 [Exercícios]
 [Códigos de Exemplos]
 
