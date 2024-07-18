@@ -1,4 +1,10 @@
+
 # ARQUITETURA DE COMPUTADORES
+Universidade Federal Rural do Semi Árido - [UFERSA]<https://ufersa.edu.br/>
+Centro de Ciências Exatas e Naturais - CCEN
+Departamento de Computação - DC
+Disciplina EXA0100 - ARQUITETURA E ORGANIZ.DE COMPUTADORES
+
 
 ## EMENTA 
 Organização de computadores: memórias, unidades centrais de processamento, entrada e saída. Linguagens de montagem. 
