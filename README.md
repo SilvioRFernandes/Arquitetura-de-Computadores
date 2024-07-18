@@ -12,9 +12,9 @@ O aluno deverá ser capaz de compreender quais são e como funcionam os diversos
 [MARS 4.5 - MIPS Assembler and Runtime Simulator](<https://courses.missouristate.edu/kenvollmar/mars/>)
 
 ## MATERIAL DE APOIO
-[Slides das aulas] (</Slides%20Aulas>)
-[Exercícios]
-[Códigos de Exemplos]
+[Slides das aulas] (<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Slides%20Aulas>)
+[Exercícios] (<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Exercicios>)
+[Códigos de Exemplos] (<https://github.com/SilvioRFernandes/Arquitetura-de-Computadores/tree/main/Exemplos%20ASM>)
 
 ## BIBLIOGRAFIA
 •	HENNESSY, John. PATTERSON, David. Organização e Projeto de Computadores. Rio de Janeiro: Grupo GEN, 2017. E-book. ISBN 9788595152908. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788595152908/
