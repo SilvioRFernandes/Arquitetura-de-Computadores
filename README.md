@@ -22,6 +22,7 @@ O aluno deverá ser capaz de compreender quais são e como funcionam os diversos
 
 ## FERRAMENTAS
 [MARS 4.5 - MIPS Assembler and Runtime Simulator](<https://courses.missouristate.edu/kenvollmar/mars/>)
+[Logisim 2.7.1](<(http://www.cburch.com/logisim/>)
 
 
 ## MATERIAL DE APOIO
